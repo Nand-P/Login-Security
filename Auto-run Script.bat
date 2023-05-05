@@ -1,0 +1,1 @@
+python C:\Users\Nand\Downloads\Image_Capture.py
